@@ -1,0 +1,16 @@
+{
+	"name": "AttachmentBrowser",
+	"description": "Plugin to Allow for selecting and outputting an attachment's path.",
+
+	"author": "Thomas Rader",
+	"authorEmail": "tom.rader@claritymediasolutions.com",
+	"authorUrl": "http://claritymediasolutions.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions",
+			"fileManager"
+		]
+	}
+}
